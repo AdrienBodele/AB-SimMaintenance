@@ -4,7 +4,7 @@ Je l'ai compressé en RAR ou ZIP parce qu'il contient le dossier database obliga
 
 Pour la version python il faut avoir le programme sur votre pc (si vous avez besoin de le modifier)
 
-C'est un logiciel de simulation de maintenance pour la formation et l'éducation
+C'est un logiciel de simulation de maintenance pour la formation et l'éducation par jeu de rôle
 Il est à placer dans un dossier partagé entre plusieurs ordinateurs (salle de classe équipée ordinateurs - sur l'ordi prof dossier réseau)
 Il vous est conseillé de faire des copies du dossier data à la fin des séances de cours parce ce que les étudiants ont le moyen de supprimer les dossiers.
 
