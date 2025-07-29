@@ -21,13 +21,13 @@ Leur objectif est d'étudier un système technologique pour le décrire au nivea
 - Piece de maintenance
 - Parametre
 
-Un parametre est un indicateur de maintenance; par exemple l'usure : par exemple en % : fonctionnement normal minimum 0% d'usure, maximum 20% d'usure.
+Un paramétre est un indicateur de maintenance; par exemple l'usure : par exemple en % : fonctionnement normal minimum 0% d'usure, maximum 20% d'usure.
 Si le seuil est dépassé dans une simulation alors c'est ce parametre qui a été choisi par le moderateur pour poser probleme.
 
 Dans la simulation l'administrateur peut creer des groupes de maintenance ou il choisit le nombre de moderateurs, de responsables qui leurs sont affiliés, et de techniciens qui sont affiliés aux responsables.
 Chaque moderateur choisit un objet de maintenance pour chacun de leur responsable et cree des scenarios de panne ainsi que des actions de maintenance imposés a leur responsables puis a leurs techniciens
 
-ATTENTIO Dans ma version il y a encore des défauts dans le fonctionnement des roles dans les groupes de maintenance, vous ne pouvez pas affilier plusieurs responsables à un modérateur.
+ATTENTION Dans ma version il y a encore des défauts dans le fonctionnement des roles dans les groupes de maintenance, vous ne pouvez pas affilier plusieurs responsables à un modérateur.
 Vous pouvez par contre affilier plusieurs techniciens à un responsable et mettre plusieurs roles de modérateurs; ceux ci sont à la racine des équipes de maintenance dans cette architecture :
 
 - Administrateur
