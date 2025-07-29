@@ -40,8 +40,8 @@ Les groupes de maintenance ont un nombre de points qu'ils gagnent en résolvant 
 Les modérateurs ont aussi des interventions de maintenance à mettre en place dans leur menu en plus des scénarios de panne.
 
 Il y a une messagerie dans le mode simulation qui permet d'aborder le language professionnel au lieu des discussions orales.
-Il y a 3 types de maintenance dans mon logiciel : Correctif / Préventif / Curatif en liaison avec Ajuster / Remplacer / Verifier
-Il est primordial de respecter à la lettre la façon dont les noms des objets / sections et pseudos des utilisateurs, etc.. ont étés écris, même pour les étudiants car le logiciel prendra la réponse comme une erreur
+Il y a 3 types de maintenance dans mon logiciel : Correctif / Préventif / Curatif en liaison avec Ajuster / Remplacer / Verifier.
+Il est primordial de respecter à la lettre la façon dont les noms des objets / sections et pseudos des utilisateurs, etc.. ont étés écris, même pour les étudiants car le logiciel prendra la réponse comme une erreur.
 
 J'ai travaillé de nombreuses heures sur ce logiciel. Je le rend libre et gratuit, merci de respecter les crédits si vous en faites une version améliorée ou personnalisée.
 Il est obligatoire de me garder à la première ligne des crédits en gardant le titre original que j'ai donné à ce logiciel à savoir AB SimMaintenance.
