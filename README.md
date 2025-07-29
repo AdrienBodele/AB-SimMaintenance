@@ -27,7 +27,7 @@ Si le seuil est dépassé dans une simulation alors c'est ce parametre qui a ét
 Dans la simulation l'administrateur peut creer des groupes de maintenance ou il choisit le nombre de moderateurs, de responsables qui leurs sont affiliés, et de techniciens qui sont affiliés aux responsables.
 Chaque moderateur choisit un objet de maintenance pour chacun de leur responsable et cree des scenarios de panne ainsi que des actions de maintenance imposés a leur responsables puis a leurs techniciens
 
-ATTENTION Dans ma version il y a encore des défauts dans le fonctionnement des roles dans les groupes de maintenance, vous ne pouvez pas affilier plusieurs responsables à un modérateur.
+ATTENTION Dans ma version il y a encore des défauts dans le fonctionnement des rôles dans les groupes de maintenance, vous ne pouvez pas affilier plusieurs responsables à un modérateur.
 Vous pouvez par contre affilier plusieurs techniciens à un responsable et mettre plusieurs roles de modérateurs; ceux ci sont à la racine des équipes de maintenance dans cette architecture :
 
 - Administrateur
@@ -35,9 +35,13 @@ Vous pouvez par contre affilier plusieurs techniciens à un responsable et mettr
 - Responsable de maintenance
 - Technicien de maintenance
 
-Si il y a plusieurs modérateurs il y a donc "conccurence" entre les équipes.
+Si il y a plusieurs modérateurs il y a donc "concurrence" entre les équipes.
 Les groupes de maintenance ont un nombre de points qu'ils gagnent en résolvant les scénarios de pannes mis en place par les modérateurs de leur équipe.
-Les moderateurs ont aussi des interventions de maintenance à mettre en place dans leur menu en plus des scénarios de panne.
+Les modérateurs ont aussi des interventions de maintenance à mettre en place dans leur menu en plus des scénarios de panne.
+
+Il y a une messagerie dans le mode simulation qui permet d'aborder le language professionnel au lieu des discussions orales.
+Il y a 3 types de maintenance dans mon logiciel : Correctif / Préventif / Curatif en liaison avec Ajuster / Remplacer / Verifier
+Il est primordial de respecter à la lettre la façon dont les noms des objets / sections et pseudos des utilisateurs, etc.. ont étés écris, même pour les étudiants car le logiciel prendra la réponse comme une erreur
 
 J'ai travaillé de nombreuses heures sur ce logiciel. Je le rend libre et gratuit, merci de respecter les crédits si vous en faites une version améliorée ou personnalisée.
 Il est obligatoire de me garder à la première ligne des crédits en gardant le titre original que j'ai donné à ce logiciel à savoir AB SimMaintenance.
