@@ -44,7 +44,7 @@ Il y a 3 types de maintenance dans mon logiciel : Correctif / Préventif / Curat
 Il est primordial de respecter à la lettre la façon dont les noms des objets / sections et pseudos des utilisateurs, etc.. ont étés écris, même pour les étudiants car le logiciel prendra la réponse comme une erreur.
 
 J'ai travaillé de nombreuses heures sur ce logiciel. Je le rend libre et gratuit, merci de respecter les crédits si vous en faites une version améliorée ou personnalisée.
-Il est obligatoire de me garder à la première ligne des crédits en gardant le titre original que j'ai donné à ce logiciel à savoir AB SimMaintenance.
+Il est indispensable de me garder à la première ligne des crédits en gardant le titre original que j'ai donné à ce logiciel à savoir AB SimMaintenance.
 Vous pouvez vous ajouter dans les crédits avec une version v1.1 par exemple suivi de la date.
 
 Merci de me communiquer vos nouvelles versions. Profitez bien.
